@@ -4,9 +4,8 @@
 	border-style:solid;
 	border-radius:10px;
 	border-color:black; 
-	display:flex;
-	text-align:center;
-	justify-content:center;
+	display:flex; 
+	justify-content:space-between;
 	padding:10px;
 	
 } 
