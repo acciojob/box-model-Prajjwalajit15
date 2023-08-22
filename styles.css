@@ -8,19 +8,25 @@
 	justify-content:space-between;
 	padding:10px;
 	
-} 
-.circle{
+}  
+.green{
+	background-color:green; 
 	border-radius:50%;
 	width:200px;
 	height:200px;
 	margin:10px;
 }
-#green{
-	background-color:green; 
-}
-#yellow{
+.yellow{
 	background-color:yellow; 
+	border-radius:50%;
+	width:200px;
+	height:200px;
+	margin:10px;
 }
-#red{
+.red{
 	background-color:red; 
+	border-radius:50%;
+	width:200px;
+	height:200px;
+	margin:10px;
 }
